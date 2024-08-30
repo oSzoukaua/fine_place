@@ -1,0 +1,4 @@
+execute as @e[tag=oszu_fp_marker_selection_visual,type=minecraft:block_display] if entity @s[nbt={Fire:7s}] align xyz run data modify entity @s block_state.Name set value magenta_concrete
+execute as @e[tag=oszu_fp_marker_selection_visual,type=minecraft:block_display] if entity @s[nbt={Fire:10s}] align xyz run data modify entity @s block_state.Name set value magenta_concrete
+execute as @e[tag=oszu_fp_marker_selection_visual,type=minecraft:block_display] if entity @s[nbt={Fire:12s}] align xyz run data modify entity @s block_state.Name set value magenta_concrete
+execute as @e[tag=oszu_fp_marker_selection_visual,type=minecraft:block_display] if entity @s[nbt={Fire:16s}] align xyz run data modify entity @s block_state.Name set value magenta_concrete

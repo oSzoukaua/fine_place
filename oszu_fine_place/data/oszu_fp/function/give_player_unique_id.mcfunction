@@ -1,0 +1,1 @@
+#execute unless @s score oszu_player_unique_id matches 0.. run

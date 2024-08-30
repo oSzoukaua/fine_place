@@ -1,0 +1,1 @@
+$execute store success score @s oszu_fp_placable_block_test run particle block{block_state:"$(block_id)"} ~ ~ ~ 1000 1000 1000 1 1 normal @s

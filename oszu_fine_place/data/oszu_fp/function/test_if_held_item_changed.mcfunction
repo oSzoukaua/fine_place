@@ -1,0 +1,1 @@
+execute unless data entity @s Inventory[{Slot:-106b}].id run function oszu_fp:marker_off
